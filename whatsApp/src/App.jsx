@@ -11,6 +11,7 @@ function App() {
       <h3>ami sokalays install dekhbo </h3>
       <h3>ami sokalays install dekhbo vai</h3>
       <h3>ami  install dekhbo vai</h3>
+      <h3>ami  insthhhhhhhhhhh</h3>
     </>
   )
 }
